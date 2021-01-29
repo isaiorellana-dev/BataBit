@@ -103,7 +103,19 @@ main {
 .main-exchange-container {
   width: 100%;
   height: auto;
-  padding-top: 80px;
+  padding-top: 59px;
   padding-bottom: 30px;
   text-align: center;
+}
+.backgroundImg {
+  width: 60%;
+  margin: 0 auto;
+}
+.main-exchange-container--title {
+  width: 90%;
+  min-width: 288px;
+  max-width: 900px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
 }
